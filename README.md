@@ -1,12 +1,10 @@
 <div align="center">
 
-# 王栋 · AI 产品构建者
+# WD · AI 产品构建者
 
 **如何用 AI 去提高生产效率？这是一个问题。**
 
 能独立走通商业闭环的 AI 应用全栈搭建 —— 从发现商业机会、设计产品方案、写代码落地，到交付客户收钱，整条链路一个人跑通。
-
-[🌐 个人主页](https://wd-cloud-spec.github.io) · [📧 邮箱](mailto:1252395926@qq.com) · [📱 130 3283 9382](tel:13032839382) · 重庆 · 成都 · 随时到岗
 
 </div>
 
@@ -33,10 +31,6 @@
 | 🚧 [RAG 知识库 MAX](https://github.com/wd-cloud-spec/rag-max) | 17 种模块化 RAG 策略的私有化桌面端知识库 | Python · bge-m3 · PyQt6 |
 
 > 项目演示视频见个人主页：[wd-cloud-spec.github.io](https://wd-cloud-spec.github.io)
-
-## 技术栈
-
-Python · Node.js · JavaScript/TypeScript · Next.js · React · PySide6/PyQt6 · Electron · LangGraph · Supabase · SQLite · DeepSeek · Qwen-VL · Tree-sitter · SSE · PWA
 
 ---
 
